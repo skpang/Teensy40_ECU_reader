@@ -11,4 +11,8 @@
  * 
  *  Based on the ECU reader project for the Arduino https://github.com/skpang/Arduino_CAN-Bus_ECU_reader
  *
+ * Font from:
+ * https://fonts.google.com/specimen/Roboto
+ * Converted using:
+ * https://lvgl.io/tools/fontconverter
  */
