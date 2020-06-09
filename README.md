@@ -5,7 +5,7 @@
  * For use with
  * http://skpang.co.uk/catalog/teensy-40-triple-can-board-with-480x320-35-touch-lcd-p-1589.html
  * 
- * Ensure LVGL library is installed  
+ * Ensure LVGL library is installed. Tested with v7.0  
  * 
  * https://github.com/lvgl/lvgl
  * 
