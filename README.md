@@ -9,5 +9,6 @@
  * 
  * https://github.com/lvgl/lvgl
  * 
- *  
+ *  Based on the ECU reader project for the Arduino https://github.com/skpang/Arduino_CAN-Bus_ECU_reader
+ *
  */
